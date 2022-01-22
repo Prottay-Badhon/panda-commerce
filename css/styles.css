@@ -1,0 +1,28 @@
+.bg-important{
+    background-color: #fceae8;
+}
+.categories img {
+width: 100px;
+}
+.categories{
+    color: white;
+}
+.btn-panda{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border-radius: 8px;
+    color:white;
+    border:none;
+    padding: 9px 25px;
+}
+.btn-panda:hover{
+    color:white;
+}
+.bg-orange{
+    background-color: orange;
+}
+.bg-orchid{
+    background-color: orchid;
+}
+.bg-blue{
+    background-color: blue;
+}
